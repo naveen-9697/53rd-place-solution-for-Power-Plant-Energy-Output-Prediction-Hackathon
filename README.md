@@ -1,4 +1,3 @@
-# 54th-place-solution-for-Power-Plant-Energy-Output-Prediction-Hackathon
 <img src=".images/Power Plant Energy_banner.jpg" />
 
 ## on leaderboard:
