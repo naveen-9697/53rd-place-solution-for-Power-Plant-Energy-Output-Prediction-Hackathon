@@ -1,7 +1,7 @@
 <img src=".images/Power Plant Energy_banner.jpg" />
 
 ## on leaderboard:
-<img src=".images/on_the_leaderboard.jpg" />
+<img src= ".images/on_the_leaderboard.jpg" />
 
 ## results:
 RMSE = 2.36158 on test data.
